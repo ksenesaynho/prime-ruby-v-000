@@ -1,2 +1,2 @@
-def prime?(integer)
-  return true
+def prime?(num)
+  
